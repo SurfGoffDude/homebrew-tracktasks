@@ -1,6 +1,6 @@
 cask "tracktasks" do
-  version "1.1"
-  sha256 "083ff5d219b3d7745dcfafdd3a9e0bd8f522e2a46aba5366e8545862747a94d7"
+  version "1.1.1"
+  sha256 "e45842f8e3f57d25363a3d8b98bf6172a101a68d9df86789a2b48c58909d3196"
 
   url "https://github.com/SurfGoffDude/TrackTasks/releases/download/v#{version}/TrackTasks-#{version}.zip"
   name "TrackTasks"
